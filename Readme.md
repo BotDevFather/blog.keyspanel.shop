@@ -128,6 +128,97 @@ Videos uploaded to this repo should be under 20 MB. For bigger videos, use YouTu
 > Risky action.
 ```
 
+## Docs-style blocks (AriaDocs syntax)
+
+These work in `index.md` or `index.mdx`. Write them exactly like AriaDocs. Leave a blank line before and after each block.
+
+### Note
+
+```
+<Note type="warning" title="Heads up">
+  Markdown works inside, including **bold**, lists and code.
+</Note>
+```
+
+Types: `note`, `success`, `warning`, `danger`.
+
+### Steps
+
+```
+<Stepper>
+  <StepperItem title="Install">
+    Run the installer.
+  </StepperItem>
+  <StepperItem title="Log in">
+    Use the key from your order.
+  </StepperItem>
+</Stepper>
+```
+
+### Tabs (up to 8)
+
+```
+<Tabs defaultValue="android">
+  <TabsList>
+    <TabsTrigger value="android">Android</TabsTrigger>
+    <TabsTrigger value="ios">iOS</TabsTrigger>
+  </TabsList>
+  <TabsContent value="android">Steps for Android.</TabsContent>
+  <TabsContent value="ios">Steps for iOS.</TabsContent>
+</Tabs>
+```
+
+### File tree
+
+```
+<Files
+  items={[
+    { type: "folder", name: "app", isOpen: true, children: [
+      { type: "file", name: "page.tsx", highlight: true },
+      { type: "file", name: "new.ts", indicator: "add" },
+      { type: "file", name: "old.ts", indicator: "delete" },
+    ] },
+    { type: "file", name: "package.json" },
+  ]}
+  sorted
+/>
+```
+
+Folder options: `isOpen`. Any item: `highlight`, `indicator: "add" | "delete"`. `sorted` puts folders first, then A to Z.
+
+### Code blocks
+
+````
+```ts:lib/money.ts showLineNumbers {2,4-5}
+const rate = 25;
+export const toUsd = (inr: number) => inr / rate;
+```
+````
+
+- `ts` is the language (colours and label). Common ones: js, ts, tsx, py, go, php, bash, json, yaml, sql, css, html, diff.
+- `:lib/money.ts` shows a file name in the bar.
+- `showLineNumbers` adds line numbers.
+- `{2,4-5}` highlights those lines.
+- Every code block gets a Copy button.
+
+### Headings
+
+`##`, `###` and `####` all appear in the "On this page" list.
+
+### Authors (frontmatter)
+
+```
+authors:
+  - username: Your Name
+    handle: yourhandle
+    handleUrl: https://github.com/yourhandle
+    avatar: ./me.jpg
+```
+
+Dates can be `2026-11-27` or `27-11-2026`.
+
+Imports and other MDX code are ignored. Only the blocks above are understood.
+
 ## Rules
 
 - Raw HTML is not rendered (shown as text) for safety. Use the features above instead.
