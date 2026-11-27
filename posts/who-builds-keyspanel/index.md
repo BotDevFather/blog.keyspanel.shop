@@ -19,7 +19,7 @@ Every time you open the store, tap a button in one of our bots or send a request
 
 Codex is the developer behind KeysPanel. He builds and looks after the parts you actually touch: the website, the Telegram bots and the reseller API, plus the connections that make them work as one system.
 
-If [Jack Senpai and Avijit](/blog/who-is-behind-keyspanel) are the people who answer for every order, Codex is the one who makes sure those orders run smoothly.
+If [Jack Senpai and Abhijeet](/blog/who-is-behind-keyspanel) are the people who answer for every order, Codex is the one who makes sure those orders run smoothly.
 
 ## What he builds
 
