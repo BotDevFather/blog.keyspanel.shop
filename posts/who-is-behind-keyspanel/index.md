@@ -21,7 +21,7 @@ People often ask us one simple question before their first order: **who is actua
 
 ## Two people, one rule
 
-KeysPanel is run by two people: **Jack Senpai** (the founder, on Telegram as [@KeysPanel](https://t.me/KeysPanel)) and **Avijit** (the co-founder, on Telegram as [@A_bhijeeeet](https://t.me/A_bhijeeeet)). We built it because buying cheap keys and accounts online usually means trusting a stranger and hoping for the best. We wanted a place where that trust problem is solved by a middleman who answers for every order.
+KeysPanel is run by two people: **Jack Senpai** (the founder, on Telegram as [@KeysPanel](https://t.me/KeysPanel)) and **Abhijeet** (the co-founder, on Telegram as [@A_bhijeeeet](https://t.me/A_bhijeeeet)). We built it because buying cheap keys and accounts online usually means trusting a stranger and hoping for the best. We wanted a place where that trust problem is solved by a middleman who answers for every order.
 
 That is the one rule we run by: **if an order goes wrong, it is our problem, not yours.**
 
