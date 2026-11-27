@@ -9,19 +9,19 @@ cover: ./file_0000000045d882119abadc3e22249f16.png
 trending: true
 pinned: 2
 authors:
-  - username: FOUNDER NAME
-    handle: founderhandle
-    handleUrl: https://t.me/founderhandle
-  - username: CO-FOUNDER NAME
-    handle: cofounderhandle
-    handleUrl: https://t.me/cofounderhandle
+  - username: Jack Senpai
+    handle: KeysPanel
+    handleUrl: https://t.me/KeysPanel
+  - username: Avijit
+    handle: A_bhijeeeet
+    handleUrl: https://t.me/A_bhijeeeet
 ---
 
 People often ask us one simple question before their first order: **who is actually running this?** Fair question. When you buy a digital key or an account online, you want to know there are real people on the other side. So here is the honest answer.
 
 ## Two people, one rule
 
-KeysPanel is run by two people: a founder and a co-founder. We built it because buying cheap keys and accounts online usually means trusting a stranger and hoping for the best. We wanted a place where that trust problem is solved by a middleman who answers for every order.
+KeysPanel is run by two people: **Jack Senpai** (the founder, on Telegram as [@KeysPanel](https://t.me/KeysPanel)) and **Avijit** (the co-founder, on Telegram as [@A_bhijeeeet](https://t.me/A_bhijeeeet)). We built it because buying cheap keys and accounts online usually means trusting a stranger and hoping for the best. We wanted a place where that trust problem is solved by a middleman who answers for every order.
 
 That is the one rule we run by: **if an order goes wrong, it is our problem, not yours.**
 
@@ -87,9 +87,28 @@ Resellers get their own balance, their own price list and full API access. Price
   </TabsContent>
 </Tabs>
 
+## Our official links
+
+These are the only official KeysPanel accounts. If this list ever changes, we will update it here first.
+
+| What | Where |
+| --- | --- |
+| Telegram channel | [t.me/KeyPanel](https://t.me/KeyPanel) |
+| Telegram bot | [@KeysPannelBot](https://t.me/KeysPannelBot) |
+| Jack Senpai (founder) | [@KeysPanel](https://t.me/KeysPanel) |
+| Abhjeet (co-founder) | [@A_bhijeeeet](https://t.me/A_bhijeeeet) |
+| Order proofs | [@KeysPanelProofs](https://t.me/KeysPanelProofs) |
+| Website | [keyspanel.shop](https://keyspanel.shop) |
+
+<Note type="warning" title="Watch out for fakes">
+  We will never message you first from an account that is not on this list. If someone claims to be KeysPanel, Jack Senpai or Avijit from any other username, it is not us. Check the handle carefully before you pay anyone.
+</Note>
+
+You can see real orders and deliveries from our customers in the [@KeysPanelProofs](https://t.me/KeysPanelProofs) channel.
+
 ## Talk to us
 
-We read every message. If you have a question about an order, want to become a reseller, or just want to say hello, reach out from the [contact page](/contact).
+We read every message. If you have a question about an order, want to become a reseller, or just want to say hello, reach out from the [contact page](/contact) or join our [Telegram channel](https://t.me/KeyPanel).
 
 @[button](/become-a-reseller "Become a reseller")
 
