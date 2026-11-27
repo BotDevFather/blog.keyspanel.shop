@@ -12,7 +12,7 @@ authors:
   - username: Jack Senpai
     handle: KeysPanel
     handleUrl: https://t.me/KeysPanel
-  - username: Avijit
+  - username: Abhijeet
     handle: A_bhijeeeet
     handleUrl: https://t.me/A_bhijeeeet
 ---
