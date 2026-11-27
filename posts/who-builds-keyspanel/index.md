@@ -5,7 +5,7 @@ date: 2026-11-27
 category: Company
 tags: [keyspanel, team, developer]
 featured: true
-cover: ./cover.jpg
+cover: ./file_00000000791c82119d6d23b4e4f27966.png
 pinned: 1
 authors:
   - username: Codex
