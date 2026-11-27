@@ -5,6 +5,7 @@ date: 2026-11-27
 category: Company
 tags: [keyspanel, team, about]
 featured: true
+cover: ./file_0000000045d882119abadc3e22249f16.png
 trending: true
 pinned: 2
 authors:
